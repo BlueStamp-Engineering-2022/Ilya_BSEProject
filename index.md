@@ -1,12 +1,18 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Electrical clock
+A light board inside of a box showing the current time. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Ilya Bakar | Mid-Peninsula | Electrical Engineering | Incoming 10th grader
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWL2JZRXIU0RsZV_uhoy1zfUFQpqTs9qHDYyLAsHLvZLLsYPhWciACqPlb2IkNFfF-Ae09f7qI71ZH-HuHohiT3QAMcPtOzwn8LaDKGIXTUFJt8Pwh58JtdUhmYGQXTH-TSiKlf1rIlDFBzdCUgd6I=s972-no?authuser=0)
   
+# Start project
+  
+
+My starter project was setting up and creating a BugEye project. The transmitters were added to ensure that the device was working and sensing if it is in the dark or the light. It took me one class to complete it (about 4 hours). The process consisted of mainly soldering. I had to solder the transmitters, the LED's, the sensor, and the battery all on to the base of the bug. 
+
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
