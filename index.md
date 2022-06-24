@@ -1,4 +1,4 @@
-﻿# Electrical clock
+﻿# LED Electrical clock
 A light board inside of a box showing the current time. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
