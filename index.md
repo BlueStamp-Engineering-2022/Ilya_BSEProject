@@ -1,5 +1,5 @@
 ﻿# LED Electrical clock
-A light board inside of a box showing the current time. 
+This project consists of a Lightboard attatched to an Ardiuno coded to display the time on the LED board. They are placed inside of a wooden box for stability and safekeeping. One side of the box is clear so that anyone can read the time without having to open the box.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
