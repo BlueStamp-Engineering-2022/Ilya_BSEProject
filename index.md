@@ -27,4 +27,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 My starter project was setting up and creating a BugEye project. The transmitters were added to ensure that the device was working and sensing if it is in the dark or the light. It took me about one class (four hours) to complete it. The process consisted of mainly soldering. I had to solder the transmitters, the LED's, the sensor, and the battery all on to the base of the bug. 
 
-[![Starter video](https://www.youtube.com/watch?time_continue=9&v=teURmVErRJc&feature=emb_logo){:target="_blank" rel="noopener"}
+[![Starter video](https://www.youtube.com/watch?time_continue=9&v=teURmVErRJc&feature=emb_logo)
