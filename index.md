@@ -3,7 +3,7 @@ This project consists of a Lightboard attatched to an Ardiuno coded to display t
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ilya Bakar | Mid-Peninsula | Electrical Engineering | Incoming 10th grader
+| Ilya | Mid-Peninsula | Electrical Engineering | Incoming 10th grader
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWL2JZRXIU0RsZV_uhoy1zfUFQpqTs9qHDYyLAsHLvZLLsYPhWciACqPlb2IkNFfF-Ae09f7qI71ZH-HuHohiT3QAMcPtOzwn8LaDKGIXTUFJt8Pwh58JtdUhmYGQXTH-TSiKlf1rIlDFBzdCUgd6I=s972-no?authuser=0)
   
