@@ -10,7 +10,7 @@ This project consists of a Lightboard attatched to an Ardiuno coded to display t
 # Final Milestone
 I finished the project and I learned a lot about Matricies and about coding on an Arduino. The project was very fun to make and I ended up finishing it on time. The project was a clock with a military time format.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://i3.ytimg.com/vi/S9f4DR78cV4/maxresdefault.jpg)](https://www.youtube.com/watch?v=S9f4DR78cV4){:target="_blank" rel="noopener"}
 # First Milestone
   
 
